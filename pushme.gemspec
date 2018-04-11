@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ["lib/pushme.rb"]
   s.homepage    = 'https://rubygems.org/gems/pushme'
   s.license     = 'MIT'
+  s.executables = 'pushme'
 end
