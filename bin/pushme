@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
 
 require 'pushme'
-puts PushMe.push(ARGV[0], ARGV[1], ARGV[2])
+
+PushMe.push(ARGV[0], ARGV[1], ARGV[2])
